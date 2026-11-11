@@ -23,7 +23,3 @@ Para realizar a atividade, foi utilizado um banco de dados de e-commerce, simula
 
 - `atividade_transacoes.sql` - Contém os códigos das transações, procedures e demais operações.
 - `backup_multibancos.sql` - Arquivo de backup dos bancos de dados.
-
-## Conclusão
-
-A atividade ajudou a entender melhor como funcionam as transações no MySQL e a importância de controlar as alterações feitas no banco de dados. Também foi possível praticar recursos de backup e recuperação, que são importantes para evitar a perda de informações.
